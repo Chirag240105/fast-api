@@ -1,0 +1,121 @@
+
+{
+  "patients": [
+    {
+      "patient_id": "P001",
+      "name": "Aarav Sharma",
+      "age": 28,
+      "gender": "Male",
+      "height_cm": 175,
+      "weight_kg": 72,
+      "bmi": 23.51,
+      "blood_group": "O+",
+      "blood_pressure": {
+        "systolic": 120,
+        "diastolic": 80
+      },
+      "heart_rate_bpm": 74,
+      "temperature_celsius": 36.8,
+      "oxygen_saturation_percent": 98,
+      "allergies": ["Pollen"],
+      "medical_conditions": [],
+      "medications": [],
+      "smoking_status": "Never",
+      "activity_level": "Moderate"
+    },
+    {
+      "patient_id": "P002",
+      "name": "Priya Verma",
+      "age": 35,
+      "gender": "Female",
+      "height_cm": 162,
+      "weight_kg": 68,
+      "bmi": 25.91,
+      "blood_group": "A+",
+      "blood_pressure": {
+        "systolic": 130,
+        "diastolic": 85
+      },
+      "heart_rate_bpm": 82,
+      "temperature_celsius": 37.0,
+      "oxygen_saturation_percent": 97,
+      "allergies": [],
+      "medical_conditions": ["Hypothyroidism"],
+      "medications": ["Levothyroxine"],
+      "smoking_status": "Never",
+      "activity_level": "Low"
+    },
+    {
+      "patient_id": "P003",
+      "name": "Rohan Gupta",
+      "age": 45,
+      "gender": "Male",
+      "height_cm": 168,
+      "weight_kg": 88,
+      "bmi": 31.18,
+      "blood_group": "B+",
+      "blood_pressure": {
+        "systolic": 145,
+        "diastolic": 92
+      },
+      "heart_rate_bpm": 90,
+      "temperature_celsius": 36.9,
+      "oxygen_saturation_percent": 96,
+      "allergies": ["Penicillin"],
+      "medical_conditions": ["Hypertension"],
+      "medications": ["Amlodipine"],
+      "smoking_status": "Former",
+      "activity_level": "Low"
+    },
+    {
+      "patient_id": "P004",
+      "name": "Ananya Singh",
+      "age": 22,
+      "gender": "Female",
+      "height_cm": 158,
+      "weight_kg": 52,
+      "bmi": 20.83,
+      "blood_group": "AB+",
+      "blood_pressure": {
+        "systolic": 110,
+        "diastolic": 70
+      },
+      "heart_rate_bpm": 68,
+      "temperature_celsius": 36.6,
+      "oxygen_saturation_percent": 99,
+      "allergies": [],
+      "medical_conditions": [],
+      "medications": [],
+      "smoking_status": "Never",
+      "activity_level": "High"
+    },
+    {
+      "patient_id": "P005",
+      "name": "Vikram Patel",
+      "age": 56,
+      "gender": "Male",
+      "height_cm": 172,
+      "weight_kg": 95,
+      "bmi": 32.11,
+      "blood_group": "O-",
+      "blood_pressure": {
+        "systolic": 138,
+        "diastolic": 88
+      },
+      "heart_rate_bpm": 86,
+      "temperature_celsius": 37.1,
+      "oxygen_saturation_percent": 95,
+      "allergies": ["Dust"],
+      "medical_conditions": [
+        "Type 2 Diabetes",
+        "Hypertension"
+      ],
+      "medications": [
+        "Metformin",
+        "Losartan"
+      ],
+      "smoking_status": "Never",
+      "activity_level": "Low"
+    }
+  ]
+}
